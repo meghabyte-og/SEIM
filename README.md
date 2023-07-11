@@ -34,7 +34,7 @@ The core functionality of the project relies on a PowerShell script that continu
 
 ### Visualization and Analysis
 To visualize the gathered data, a custom log was created in Azure to store information about all failed login attempts to the system. The raw data from the log was extracted and processed to separate the relevant information into individual columns, including latitude and longitude. The Microsoft Sentinel workbook was utilized to present the geolocation data on a world map, providing an intuitive and comprehensive overview of the attacks.
-![Azure log](https://github.com/meghabyte-og/SEIM/assets/135510418/bd7af6e6-f20b-4bad-baad-f82b60514649)
+![Azure log](https://github.com/meghabyte-og/SEIM/assets/135510418/825473c1-7fc3-46a7-8bf0-a36b9cec689e)
 ![World Map + PS](https://github.com/meghabyte-og/SEIM/assets/135510418/7d2e4ab2-d97e-4a7b-9d73-0f6b8762278e)
 
 
