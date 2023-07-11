@@ -19,7 +19,7 @@ Log Analytics Workspace: A Log Analytics workspace is created to facilitate the 
 ## Test Scenario and Geolocation Mapping
 
 As part of the testing process, a specific test case was conducted to evaluate the SEIM solution's functionality. By logging into the VM using the public IP address and intentionally entering an incorrect password, the project simulated an unauthorized login attempt. This action triggers the creation of an audit failure log, which captures the IP address of the system attempting to access the VM.
-<img src="https://github.com/meghabyte-og/SEIM/assets/135510418/148e5821-5a5e-4347-bf4a-aabe30cfa41e" width="60" height="40">
+<img src="https://github.com/meghabyte-og/SEIM/assets/135510418/148e5821-5a5e-4347-bf4a-aabe30cfa41e" width="100" height="100">
 
 ![Audit Failure](https://github.com/meghabyte-og/SEIM/assets/135510418/82afc7ad-fa5b-4fb9-b65c-fe4646514080)
 
