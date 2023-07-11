@@ -22,7 +22,7 @@ As part of the testing process, a specific test case was conducted to evaluate t
 <p align="center">
 
 <img src="https://github.com/meghabyte-og/SEIM/assets/135510418/148e5821-5a5e-4347-bf4a-aabe30cfa41e" width="300" height="175">
-<img src="https://github.com/meghabyte-og/SEIM/assets/135510418/82afc7ad-fa5b-4fb9-b65c-fe4646514080" width="600" height="500">
+<img src="https://github.com/meghabyte-og/SEIM/assets/135510418/82afc7ad-fa5b-4fb9-b65c-fe4646514080" width="800" height="500">
 
 </p>
 
