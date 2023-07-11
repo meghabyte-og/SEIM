@@ -41,7 +41,7 @@ The core functionality of the project relies on a PowerShell script that continu
 
 <p align="center">
 
-<img src="https://github.com/meghabyte-og/SEIM/assets/135510418/8b96384a-0c7f-4707-8911-210c57686207" width="650" height="350">
+<img src="https://github.com/meghabyte-og/SEIM/assets/135510418/8b96384a-0c7f-4707-8911-210c57686207" width="650" height="400">
 
 </p>
 
@@ -51,13 +51,13 @@ To visualize the gathered data, a custom log was created in Azure to store infor
 
 <p align="center">
 
-<img src="https://github.com/meghabyte-og/SEIM/assets/135510418/825473c1-7fc3-46a7-8bf0-a36b9cec689e" width="650" height="350">
+<img src="https://github.com/meghabyte-og/SEIM/assets/135510418/825473c1-7fc3-46a7-8bf0-a36b9cec689e" width="650" height="300">
 
 </p>
 
 <p align="center">
 
-<img src="https://github.com/meghabyte-og/SEIM/assets/135510418/7d2e4ab2-d97e-4a7b-9d73-0f6b8762278e" width="650" height="350">
+<img src="https://github.com/meghabyte-og/SEIM/assets/135510418/7d2e4ab2-d97e-4a7b-9d73-0f6b8762278e" width="650" height="300">
 
 </p>
 
