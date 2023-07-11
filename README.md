@@ -21,7 +21,7 @@ Log Analytics Workspace: A Log Analytics workspace is created to facilitate the 
 As part of the testing process, a specific test case was conducted to evaluate the SEIM solution's functionality. By logging into the VM using the public IP address and intentionally entering an incorrect password, the project simulated an unauthorized login attempt. This action triggers the creation of an audit failure log, which captures the IP address of the system attempting to access the VM.
 <p align="center">
 
-<img src="https://github.com/meghabyte-og/SEIM/assets/135510418/82afc7ad-fa5b-4fb9-b65c-fe4646514080" width="800" height="500">
+<img src="https://github.com/meghabyte-og/SEIM/assets/135510418/82afc7ad-fa5b-4fb9-b65c-fe4646514080" width="700" height="400">
 
 </p>
 
