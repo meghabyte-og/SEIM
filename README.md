@@ -19,7 +19,8 @@ Log Analytics Workspace: A Log Analytics workspace is created to facilitate the 
 ## Test Scenario and Geolocation Mapping
 
 As part of the testing process, a specific test case was conducted to evaluate the SEIM solution's functionality. By logging into the VM using the public IP address and intentionally entering an incorrect password, the project simulated an unauthorized login attempt. This action triggers the creation of an audit failure log, which captures the IP address of the system attempting to access the VM.
-![Test case](https://github.com/meghabyte-og/SEIM/assets/135510418/148e5821-5a5e-4347-bf4a-aabe30cfa41e)
+<img src="https://github.com/meghabyte-og/SEIM/assets/135510418/148e5821-5a5e-4347-bf4a-aabe30cfa41e" width="60" height="40">
+
 ![Audit Failure](https://github.com/meghabyte-og/SEIM/assets/135510418/82afc7ad-fa5b-4fb9-b65c-fe4646514080)
 
 To track the location of the attacking system, a PowerShell script was developed. The script utilizes the [IPGeolocation](https://ipgeolocation.io/ "IPGeolocation Homepage") to retrieve latitude, longitude, and general area information associated with the IP address. This geolocation data is then used to plot the attack origins on a world map, providing a visual representation of the security events.
